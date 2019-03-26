@@ -1,7 +1,7 @@
 #Guess the number
 #Coded by: James Byatte
-#Last updated: 08/02/2019
-#version: 1.1 Dev
+#Last updated: 03/26/2019
+#version: 1.2 Dev
 
 import random
 
